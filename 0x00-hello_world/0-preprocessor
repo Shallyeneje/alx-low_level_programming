@@ -1,0 +1,3 @@
+#!/bin/bash
+gCC $CFILE -E -0 c
+
